@@ -1,2 +1,2 @@
 # Jake-s-Eatery
-Class Activity 
+Class Activity to create a client website using flex-box
